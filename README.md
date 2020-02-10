@@ -3,33 +3,33 @@ CropDoc is a web application for farm managing and disease recognition.
 
 # Screens :
 
-![index][screenshots/screens/index.png]
+![index](screenshots/screens/index.png)
 
-![index][screenshots/screens/register.png]
+![register](screenshots/screens/register.png)
 
-![index][screenshots/screens/login.png]
+![login](screenshots/screens/login.png)
 
-![index][screenshots/screens/home.png]
+![home](screenshots/screens/home.png)
 
-![index][screenshots/screens/diseaserec.png]
+![disease recognition](screenshots/screens/diseaserec.png)
 
-![index][screenshots/screens/farmanagerfirst.png]
+![farmanager first](screenshots/screens/farmanagerfirst.png)
 
-![index][screenshots/screens/addFarm.png]
+![add farm](screenshots/screens/addFarm.png)
 
-![index][screenshots/screens/addParcel.png]
+![add parcel](screenshots/screens/addParcel.png)
 
-![index][screenshots/screens/addTask.png]
+![add task](screenshots/screens/addTask.png)
 
-![index][screenshots/screens/addBreeding.png]
+![add breeding](screenshots/screens/addBreeding.png)
 
-![index][screenshots/screens/addWorker.png]
+![add worker](screenshots/screens/addWorker.png)
 
-![index][screenshots/screens/farmanager.png]
+![farmanager full](screenshots/screens/farmanager.png)
 
-![index][screenshots/screens/diseaseSearch.png]
+![disease search](screenshots/screens/diseaseSearch.png)
 
-![index][screenshots/screens/dashboard.png]
+![dashboard](screenshots/screens/dashboard.png)
 
-![index][screenshots/screens/dashboardWeather.png]
+![weather](screenshots/screens/dashboardWeather.png)
 
