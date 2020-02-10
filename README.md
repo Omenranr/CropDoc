@@ -3,33 +3,48 @@ CropDoc is a web application for farm managing and disease recognition.
 
 # Screens :
 
-![index](screenshots/screens/index.png)
+- Index page :
+![index](screens/index.png)
 
-![register](screenshots/screens/register.png)
+- Register page :
+![register](screens/register.png)
 
-![login](screenshots/screens/login.png)
+- Login page :
+![login](screens/login.png)
 
-![home](screenshots/screens/home.png)
+- Home page :
+![home](screens/home.png)
 
-![disease recognition](screenshots/screens/diseaserec.png)
+- Disease recognition page :
+![disease recognition](screens/diseaserec.png)
 
-![farmanager first](screenshots/screens/farmanagerfirst.png)
+- Farm manager :
+![farmanager first](screens/farmanagerfirst.png)
 
-![add farm](screenshots/screens/addFarm.png)
+- Add Farm :
+![add farm](screens/addFarm.png)
 
-![add parcel](screenshots/screens/addParcel.png)
+- Add Parcel :
+![add parcel](screens/addParcel.png)
 
-![add task](screenshots/screens/addTask.png)
+- Add Task :
+![add task](screens/addTask.png)
 
-![add breeding](screenshots/screens/addBreeding.png)
+- Add Breeding :
+![add breeding](screens/addBreeding.png)
 
-![add worker](screenshots/screens/addWorker.png)
+- Add Worker :
+![add worker](screens/addWorker.png)
 
-![farmanager full](screenshots/screens/farmanager.png)
+- Farm manager :
+![farmanager full](screens/farmanager.png)
 
-![disease search](screenshots/screens/diseaseSearch.png)
+- Disease search :
+![disease search](screens/diseaseSearch.png)
 
-![dashboard](screenshots/screens/dashboard.png)
+- Dashboard page :
+![dashboard](screens/dashboard.png)
 
-![weather](screenshots/screens/dashboardWeather.png)
+- Weather :
+![weather](screens/dashboardWeather.png)
 
